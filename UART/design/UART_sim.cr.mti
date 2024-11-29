@@ -1,0 +1,22 @@
+{C:/Users/saber/Desktop/design projects/UART/design/UART_TX.v} {1 {vlog -work work -vopt -stats=none {C:/Users/saber/Desktop/design projects/UART/design/UART_TX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_sender
+
+Top level modules:
+	UART_sender
+
+} {} {}} {C:/Users/saber/Desktop/design projects/UART/design/UART_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/saber/Desktop/design projects/UART/design/UART_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/saber/Desktop/design projects/UART/design/UART_RX.v} {1 {vlog -work work -vopt -stats=none {C:/Users/saber/Desktop/design projects/UART/design/UART_RX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_receiver
+
+Top level modules:
+	UART_receiver
+
+} {} {}}
